@@ -27,7 +27,7 @@ choco install adb    # For Windows (using Chocolatey)
 Clone the repository and run the script:
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/bluestacks-tweaker.git
+git clone https://github.com/4nnonyme/BStweaker.git
 cd bluestacks-tweaker
 python bluestacks_tweaker.py
 ```
