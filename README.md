@@ -28,7 +28,7 @@ Clone the repository and run the script:
 
 ```bash
 git clone https://github.com/4nnonyme/BStweaker.git
-cd bluestacks-tweaker
+cd BStweaker.py
 python BStweaker.py
 ```
 
