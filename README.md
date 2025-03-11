@@ -4,28 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BlueStacks Tweaker - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #f4f4f4;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        code {
-            background-color: #eee;
-            padding: 3px 6px;
-            border-radius: 4px;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-    </style>
 </head>
 <body>
     <h1>BlueStacks Tweaker</h1>
@@ -47,8 +25,10 @@
 choco install adb    # For Windows (using Chocolatey)</code></pre>
 
     <h2>Usage</h2>
-    <p>Run the script using Python:</p>
-    <pre><code>python bluestacks_tweaker.py</code></pre>
+    <p>Clone the repository and run the script:</p>
+    <pre><code>git clone https://github.com/your-username/bluestacks-tweaker.git
+cd bluestacks-tweaker
+python bluestacks_tweaker.py</code></pre>
 
     <h2>Requirements</h2>
     <ul>
@@ -59,5 +39,8 @@ choco install adb    # For Windows (using Chocolatey)</code></pre>
 
     <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
+
+    <h2>GitHub Repository</h2>
+    <p>Find the project on GitHub: <a href="https://github.com/your-username/bluestacks-tweaker">BlueStacks Tweaker</a></p>
 </body>
 </html>
